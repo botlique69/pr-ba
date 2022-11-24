@@ -1,1 +1,2 @@
 # javított project
+eddig jó
